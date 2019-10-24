@@ -18,7 +18,7 @@
 
         <span
         class="flex flex-row white">
-        {{user.first_name}} zzz
+        {{user.first_name}}
         </span>
 
 
