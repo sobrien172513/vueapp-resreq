@@ -9,7 +9,6 @@ export default {
 };
 </script>
 <style scoped>
-@import "./assets/css/style.css";
 ul {
   list-style-type: none;
 }

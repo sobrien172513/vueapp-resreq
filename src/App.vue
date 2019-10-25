@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import Homepage from "./components/Homepage";
+import Homepage from "./views/Homepage";
 import axios from "axios";
 
 export default {
@@ -54,7 +54,7 @@ export default {
 </script>
 
 <style>
-@import './assets/css/style.css';
+@import "./assets/css/style.css";
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
