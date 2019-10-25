@@ -1,2 +1,0 @@
-vueapp-resreq
-This is a sandbox application using VueJS, resReq.in(api) and Axois.

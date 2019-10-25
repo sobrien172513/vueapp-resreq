@@ -1,6 +1,6 @@
 <template>
   <div class="homepage">
-    <p>User List</p>
+    <p class="flex flex-row text-xl">User List</p>
   </div>
 </template>
 <script>
@@ -9,6 +9,7 @@ export default {
 };
 </script>
 <style scoped>
+@import "./assets/css/style.css";
 ul {
   list-style-type: none;
 }
